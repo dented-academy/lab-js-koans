@@ -21,7 +21,7 @@ Get started with Ryan Anklam's [Learn JavaScript completely On the Cloud With th
 - Click `Code` and copy the `ssh link`
 - In your terminal navigate to your `unit-1` folder
 - Use the command `$ git clone [ssh link]`
-- Run Live Server
+- Use Live Server
 
 # Instructions
 - Navigate to the appropriate file specified in the title
